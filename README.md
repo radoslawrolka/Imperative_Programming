@@ -1,7 +1,10 @@
 # Imperative_Programming_Course
 Imperative programming course at AGH UST
 - lab 1: vectors
-- lab 2: stack and queue
-- lab 3: statistics
-- lab 4: chars and strings
-- lab 5: matrix
+- lab 2: permutations
+- lab 3: stack and queue
+- lab 4: war game
+- lab 5: statistics
+- lab 6: chars and strings
+- lab 7: identificators
+- lab 8: matrix
