@@ -5,4 +5,3 @@ Imperative programming course at AGH UST
 - lab 3: statistics
 - lab 4: chars and strings
 - lab 5: matrix
-...
