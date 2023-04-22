@@ -8,5 +8,5 @@ Imperative programming course at AGH UST
 - lab 6: chars and strings
 - lab 7: identificators
 - lab 8: matrix
-- lab 9: structures (todo)
+- lab 9: structures
 - ...
