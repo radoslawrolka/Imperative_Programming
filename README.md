@@ -10,4 +10,5 @@ Imperative programming course at AGH UST
 - lab 08: matrix
 - lab 09: structures
 - lab 10: pointers
+- lab 11: sorting
 - ...
