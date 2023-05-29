@@ -11,4 +11,5 @@ Imperative programming course at AGH UST
 - lab 09: structures
 - lab 10: pointers
 - lab 11: sorting
-- ...
+- lab 12: memory allocation
+- lab 13: vector operations
