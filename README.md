@@ -12,6 +12,7 @@ Imperative programming course at AGH UST
 - lab 10: pointers
 - lab 11: sorting
 - lab 12: memory allocation
-- lab 13: vector operations
-- lab 14: list (...)
+- lab 13: generic vector
+- lab 14: generic list
+- lab 15: doubly linked list of arrays (...)
 - ...
