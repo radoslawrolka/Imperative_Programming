@@ -16,4 +16,3 @@ Imperative programming course at AGH UST
 - lab 14: generic list
 - lab 15: doubly linked list of arrays 
 - lab 16: hash table with separate chaining
-- final kolloquium
